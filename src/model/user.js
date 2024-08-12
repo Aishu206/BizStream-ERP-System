@@ -1,0 +1,15 @@
+const user = {
+  id: '',
+  firstName: '',
+  lastName: '',
+  emailId: '',
+  password: '',
+  primaryContactNo: '',
+  lastLoginDate: '',
+  lastLoginDateDisplay: '',
+  role: '',
+  authorities: '',
+  orgId: '',
+  updatedDateTime: '',
+  createdDateTime: '',
+};

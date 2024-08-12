@@ -1,0 +1,16 @@
+const product = {
+  id: '',
+  productName: '',
+  materialUsedId: '',
+  category: '',
+  dimension: '',
+  productImageLink: '',
+  polish: '',
+  actualPrice: '',
+  price: '',
+  fabric: '',
+  description: '',
+  orgId: '',
+  updateDateTime: '',
+  createdDateTime: '',
+};
